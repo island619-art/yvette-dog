@@ -1,0 +1,6 @@
+{
+  "name": "댕댕 라이프 (DANGDANG LIFE)",
+  "description": "우리 강아지의 모든 일상을 한곳에서 - 건강 기록, 예방접종, 산책·여행 장소, 견주 커뮤니티 및 AI 생활관리 도우미 통합 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
